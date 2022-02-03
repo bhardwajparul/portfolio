@@ -127,7 +127,7 @@
   position: relative;
   display: flex;
   align-items: flex-end;
-  background-image: url("../images/top-banner-bckg.jpg");
+  background-image: url("../images/slider1.jpg");
   background-position: center;
   background-size: cover; }
   .fh5co-top-banner::after {
@@ -246,7 +246,7 @@
 
 .about-me-bckg {
   position: absolute;
-  background-image: url("../images/about-me-bckg.jpg");
+  background-image: url("../images/cover_bg_1.jpg");
   background-position: center;
   background-size: cover;
   height: 500px;
@@ -503,7 +503,7 @@
   text-align: center;
   color: #fff; }
   .single-count span {
-    display: block;
+    
     margin-bottom: 25px;
     font-size: 40px;
     font-weight: 900; }
