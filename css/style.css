@@ -1,9 +1,4 @@
-/*
- * Author by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
- */
+
 /* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
@@ -236,7 +231,7 @@
 
 .fh5co-about-me {
   position: relative;
-  margin: 193px 0 199px; }
+  margin: 193px 0 170px; }
   @media (max-width: 1250px) {
     .fh5co-about-me {
       margin: 150px 0; } }
@@ -392,7 +387,7 @@
   outline: none; }
 
 .fh5co-books {
-  margin-bottom: 122px; }
+  margin-bottom: 20px; }
   .fh5co-books .universal-h2 {
     margin-bottom: 50px;
     padding-bottom: 20px; }
@@ -406,7 +401,7 @@
         border-color: #777; }
   @media (max-width: 1250px) {
     .fh5co-books {
-      margin-bottom: 60px; } }
+      margin-bottom: 20px; } }
 
 .books {
   display: flex;
@@ -735,7 +730,7 @@
     margin: 35px 0; } }
 
 .site-footer {
-  padding-top: 120px;
+  padding-top: 20px;
   background-color: #343434; }
   @media (max-width: 1250px) {
     .site-footer {
@@ -744,10 +739,11 @@
 .footer-inner {
   display: flex;
   justify-content: space-between;
-  padding-bottom: 95px; }
+ 
+  padding-bottom: 15px; }
   .footer-inner h5 {
     margin-bottom: 30px;
-    font-size: 20px;
+    font-size: 25px;
     letter-spacing: 2px;
     color: #fff; }
   @media (max-width: 1250px) {
@@ -757,8 +753,8 @@
       align-items: center; } }
 
 .footer-info {
-  width: 50%;
-  display: flex; }
+  width: 100%;
+  justify-content: space-}
   .footer-info .footer-info__left {
     margin-right: 45px; }
     .footer-info .footer-info__left img {
@@ -773,7 +769,7 @@
     margin-bottom: 15px;
     color: #aaa; }
   .footer-info .footer-info__right .footer-phone {
-    font-size: 14px; }
+    font-size: 20px; }
   .footer-info .footer-info__right .social-icons {
     margin-top: 27px; }
     .footer-info .footer-info__right .social-icons a {
@@ -788,7 +784,7 @@
       align-items: center; } }
 
 .footer-contact-form {
-  width: 50%; }
+  width: 30%; }
   .footer-contact-form .contact-form__input {
     display: flex;
     justify-content: space-between;
